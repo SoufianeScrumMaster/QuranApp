@@ -1,0 +1,14 @@
+# flutter_native_splash-development.yaml
+flutter_native_splash:
+  color: "#ffffff"
+  image: assets/images/ISLAMICLIGHT.png
+  branding: assets/images/QuranLight.png
+  color_dark: "#121212"
+  image_dark: assets/images/ISLAMICDARK.png
+  branding_dark: assets/images/QuranDark.png
+
+  android_12:
+    image: assets/images/ISLAMICLIGHT.png
+    icon_background_color: "#ffffff"
+    image_dark: assets/images/ISLAMICDARK.png
+    icon_background_color_dark: "#121212"
